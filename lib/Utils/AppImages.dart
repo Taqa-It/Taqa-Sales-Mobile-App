@@ -1,0 +1,14 @@
+//const ic_logo='images/appimages/mrad-logo.png';
+const ic_logo='images/appimages/taqa_logo.png';
+//const ic_logo_white='images/appimages/mrad-logo-white.png';
+const ic_logo_white='images/appimages/taqa_logo01.png';
+const AlertDialogLogo = "images/appimages/verify.png";
+const ForgetPassIcon = "images/appimages/padlock.png";
+const ForgetPasswordIcon = "images/appimages/forgot-password.png";
+const menu="images/appimages/menu.png";
+const t5_img_notification = "images/appimages/notification.png";
+const ic_alert = "images/appimages/low-battery.png";
+const ic_inf = "images/appimages/charge.png";
+const ic_load = "images/appimages/trending.png";
+const ic_weather="images/appimages/weather.png";
+const ic_alertn = "images/appimages/alert_notification.png";
